@@ -1,8 +1,6 @@
 # Code Directory
 
 ### riscv-vp/sw/
-sm_e203_timing
-
 sm_tlm_uart
 
 sm3_nice_uart
@@ -26,3 +24,4 @@ iss.cpp
 nice.cpp
 
 timing.cpp
+
